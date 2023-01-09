@@ -19,7 +19,7 @@ author_profile: true
 5. Chenshu Wu, Feng Zhang, **Yuqian Hu** and K. J. Ray Liu, "GaitWay: Monitoring and Recognizing Gait Speed Through the Walls," in IEEE Transactions on Mobile Computing. [[IEEE Xplore]](https://ieeexplore.ieee.org/document/9003416)
 
 ## Conference
-1. Sai Deepika Regani, **Yuqian Hu**, Beibei Wang, and K. J. Ray Liu. 2022. Wifi-based robust indoor localization for daily activity monitoring. In Proceedings of the 1st ACM Workshop on Mobile and Wireless Sensing for Smart Healthcare (MWSSH '22). [[]] https://doi.org/10.1145/3556551.3561187
+1. Sai Deepika Regani, **Yuqian Hu**, Beibei Wang, and K. J. Ray Liu. 2022. Wifi-based robust indoor localization for daily activity monitoring. In Proceedings of the 1st ACM Workshop on Mobile and Wireless Sensing for Smart Healthcare (MWSSH '22). [[Archive]](https://web.archive.org/web/20221022154905id_/https://dl.acm.org/doi/pdf/10.1145/3556551.3561187)
 
 2. **Yuqian Hu**, Muhammed Zahid Ozturk, Beibei Wang, Chenshu Wu, Feng Zhang and K. J. Ray Liu, "Robust Device-Free Proximity Detection Using Wifi," ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021. [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/9414707)
 
