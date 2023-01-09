@@ -86,8 +86,8 @@ author:
   location         : "Greenbelt, MD, USA"
   employer         :
   pubmed           : 
-  googlescholar    :  # "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=k1G0E9AAAAAJ&hl=en" # "http://yourfullgooglescholarurl.com"
+  email            : "yhu1109@terpmail.umd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
