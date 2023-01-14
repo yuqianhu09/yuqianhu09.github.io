@@ -3,7 +3,7 @@ title: "DeFall: Environment-Independent Passive Fall Detection Using WiFi"
 collection: projects
 permalink: /projects/2018-DeFall
 venue: "Electrical & Computer Engineering, University of Maryland, Collge Park"
-date: 2018-01-01
+date: 2019
 location: "Collge Park, MD"
 ---
 
