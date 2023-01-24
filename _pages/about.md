@@ -17,15 +17,15 @@ Wireless Sensing, Signal Processing and Internet-of-Things (IoT).
 
 Publications
 ======
-[Please see in page] (https://yuqianhu09.github.io/publications/)
+[Please see in page](https://yuqianhu09.github.io/publications/)
 
 Projects
 ======
-[Please see in page] (https://yuqianhu09.github.io/projects/)
+[Please see in page](https://yuqianhu09.github.io/projects/)
 
 Services
 ======
-I am a reviewer in IEEE IoTJ, IEEE SPL, IEEE WCL, Sensors, ICASSP 2023.
+I am a reviewer in IEEE IoTJ, IEEE SPL, IEEE WCL, Sensors, and ICASSP 2023.
 
 
 
