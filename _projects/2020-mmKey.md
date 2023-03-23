@@ -5,9 +5,7 @@ permalink: /projects/2020-mmKey
 venue: "Electrical & Computer Engineering, University of Maryland, Collge Park"
 date: 2020-01-01
 location: "Collge Park, MD"
-Demo: [mmKey Demo](https://drive.google.com/file/d/1ESI1Ao5Dz6pjtAgu7IKyD5URr-qVQPwm/view?usp=sharing)
 ---
-<a href="https://drive.google.com/file/d/1ESI1Ao5Dz6pjtAgu7IKyD5URr-qVQPwm/view?usp=sharing">Link to the video</a>
 
 <img src="https://yuqianhu09.github.io/images/mmkey_flowchart.PNG" width="560">
 
@@ -21,4 +19,8 @@ Publications
 ---------
 1. **Yuqian Hu**, Beibei Wang, Chenshu Wu and K. J. Ray Liu, "mmKey: Universal Virtual Keyboard Using A Single Millimeter-Wave Radio," in IEEE Internet of Things Journal. [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/9442848)
 2. **Yuqian Hu**, Beibei Wang, Chenshu Wu and K. J. Ray Liu, "Universal Virtual Keyboard using 60 GHz mmWave Radar," 2021 IEEE 7th World Forum on Internet of Things (WF-IoT), 2021. [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/9595474) 
+
+Demo video of mmKey
+---------
+<iframe width="560" height="315" src="https://drive.google.com/file/d/1ESI1Ao5Dz6pjtAgu7IKyD5URr-qVQPwm/view?usp=sharing" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
