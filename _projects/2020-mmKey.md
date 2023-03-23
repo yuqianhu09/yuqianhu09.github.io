@@ -22,5 +22,6 @@ Publications
 
 Demo video of mmKey
 ---------
-<iframe width="560" height="315" src="https://drive.google.com/file/d/1ESI1Ao5Dz6pjtAgu7IKyD5URr-qVQPwm/view?usp=sharing" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://yuqianhu09.github.io/projects/mmKey_demo.mp4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
