@@ -6,8 +6,8 @@ venue: "Electrical & Computer Engineering, University of Maryland, Collge Park"
 date: 2020-01-01
 location: "Collge Park, MD"
 Demo: [mmKey Demo](https://drive.google.com/file/d/1ESI1Ao5Dz6pjtAgu7IKyD5URr-qVQPwm/view?usp=sharing)
-
 ---
+<a href="https://drive.google.com/file/d/1ESI1Ao5Dz6pjtAgu7IKyD5URr-qVQPwm/view?usp=sharing">Link to the video</a>
 
 <img src="https://yuqianhu09.github.io/images/mmkey_flowchart.PNG" width="560">
 
