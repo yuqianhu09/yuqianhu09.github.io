@@ -7,8 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my page! I am currently a Principal Scientist at Origin Wireless AI, Inc. 
-I obtained my Ph.D. degree in Electrical & Computer Engineering, advised by Prof. K. J. Ray Liu from the University of Maryland, College Park in 2021. I received a B.S. degree from University of Science and Technology of China (USTC) in 2017.
+Yuqian Hu received the B.S. degree in electrical engineering from the University of Science and Technology of China in July 2017, and the Ph.D. degrees in electrical engineering from the University of Maryland, College Park in 2021.
+
+Since 2022, she has been with Origin Wireless Inc, where a Principal Scientist at Origin Wireless AI, Inc. 
+
 
 
 Research Interests
