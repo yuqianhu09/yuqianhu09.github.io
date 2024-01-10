@@ -83,10 +83,10 @@ author:
   name             : "Yuqian Hu"
   avatar           : "yuqianhu.jpg"
   bio              : "Principal Scientist at OriginWireless AI"
-  location         : "Greenbelt, MD, USA"
+  location         : "Rockville, MD, USA"
   employer         :
   pubmed           : 
-  googlescholar    :  # "http://yourfullgooglescholarurl.com"
+  googlescholar    :  "https://scholar.google.com/citations?user=k1G0E9AAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0002-1853-2449"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

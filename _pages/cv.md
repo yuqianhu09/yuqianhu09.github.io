@@ -11,21 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in University of Science and Technology of China (USTC), Hefei, China, 2017
+* Ph.D. in Electrical and Computer Engineering, University of Maryland, College Park, 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: Software Engineer Intern
+  * Origin Wireless, Inc
+  * Supervisor: Dr. Hung-Quoc Lai
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2019: Research Intern
+  * Origin Wireless, Inc
+  * Supervisor: Dr. Beibei Wang
+
+* Summer 2020: Research Intern
+  * Origin Wireless, Inc
+  * Supervisor: Dr. Beibei Wang
+
+* Spring 2022 - present: Principal Scientist
+  * Origin Wireless Research, Inc.
+
   
 Skills
 ======
