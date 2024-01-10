@@ -15,7 +15,6 @@ author_profile: true
 
 
 ## Conference Papers
-======
 * Sai Deepika Regani, **Yuqian Hu**, Beibei Wang, and K. J. Ray Liu. 2022. "Wifi-based robust indoor localization for daily activity monitoring," in Proceedings of the 1st ACM Workshop on Mobile and Wireless Sensing for Smart Healthcare (MWSSH '22). Association for Computing Machinery, New York, NY, USA, 1–6. https://doi.org/10.1145/3556551.3561187
 * Jun Wang, Mingfei Gao, **Yuqian Hu**, Ramprasaath R. Selvaraju, Chetan Ramaiah, Ran Xu, Joseph F. JaJa, Larry S. Davis, "TAG: Boosting Text-VQA via Text-aware Visual Question-answer Generation," arXiv preprint arXiv:2208.01813 (2022). Accepted by BMVC 2022. 
 * **Yuqian Hu**, Beibei Wang, Chenshu Wu, K. J. Ray Liu, "Universal Virtual Keyboard using 60 GHz mmWave Radar," 2021 IEEE 7th World Forum on Internet of Things (WF-IoT), New Orleans, LA, USA, 2021, pp. 385-390, doi: 10.1109/WF-IoT51360.2021.9595474.
@@ -24,7 +23,21 @@ author_profile: true
 
 
 ## Selected Patent Applications
-======
+* Beibei Wang, Muhammed Zahid Ozturk, Chenshu Wu, Xiaolu Zeng, Sai Deepika Regani, **Yuqian Hu**, K. J. Ray Liu, Oscar Chi-Lim Au, Yi Han, Hung-Quoc Duc Lai, David N. Claffey, Chun-I Chen, Dan Bugos, Peng Zan, Guozhen Zhu, "System and method for radio-assisted sound sensing", Europe Patent Application No. EP22178761.7A, filed Jun. 13, 2022.
+* Beibei Wang, Muhammed Zahid Ozturk, Chenshu Wu, Xiaolu Zeng, Sai Deepika Regani, **Yuqian Hu**, K. J. Ray Liu, Oscar Chi-Lim Au, Yi Han, Hung-Quoc Duc Lai, David N. Claffey, Chun-I Chen, Dan Bugos, Peng Zan, Guozhen Zhu, "System and method for radio-assisted sound sensing", Japan Patent Application No. JP2022095307A, filed Jun. 13, 2022.
+* **Yuqian Hu**, Beibei Wang, Sai Deepika Regani, Peng Zan, Chenshu Wu, Dan Bugos, ZENG Xiaolu, Hung-Quoc Duc Lai, KJ Ray Liu, Oscar Chi-Lim Au "Method, apparatus, and system for wireless sensing based on linkwise motion statistics", U.S. Patent Application No. 17/838,244, filed Jun. 12, 2022.
+* Beibei Wang, **Yuqian Hu**, Yi Han, Hung-Quoc Duc Lai, David N Claffey, Chun-I Chen, K. J. Ray Liu, Oscar Chi-Lim Au, "Method, apparatus, and system for identifying and qualifying devices for wireless sensing", U.S. Patent Application No. 17/838,231, filed Jun. 12, 2022.
+* Chenshu Wu, Beibei Wang, Oscar Chi-Lim Au, K. J. Ray Liu, Chao-Lun Mai, Dan Bugos, Hung-Quoc Duc Lai, Spencer Maid, **Yuqian Hu**, Sai Deepika Regani, Muhammed Zahid Ozturk, Xiaolu Zeng, Fengyu Wang, Jeng-Feng Lee, "System and method for wireless motion monitoring", Europe Patent Application No. EP21200823.9A, filed Oct. 4, 2021.
+* Fengyu Wang, Beibei Wang, Xiaolu Zeng, Chenshu Wu, **Yuqian Hu**, Muhammed Zahid, Ozturk, Feng Zhang, K. J. Ray Liu, "Method, apparatus, and system for wireless vital monitoring using high frequency signals", Europe Patent Application No. 21165729.1A, filed Mar. 29, 2021.
+* Fengyu Wang, Beibei Wang, Xiaolu Zeng, Chenshu Wu, **Yuqian Hu**, Muhammed Zahid, Ozturk, Feng Zhang, K. J. Ray Liu, "Method, apparatus, and system for wireless vital monitoring using high frequency signals", Japan Patent Application No. 2021055725A, filed Mar. 29, 2021.
+* **Yuqian Hu**, Beibei Wang, Muhammed Zahid Ozturk, Feng Zhang, K. J. Ray Liu, Oscar Chi-Lim Au, Xiaolu Zeng, Chenshu Wu, Fengyu Wang, "Method, apparatus, and system for wireless proximity sensing", U.S. Patent App. 17/214,841, filed Mar 27, 2021. Granted Nov. 15, 2022.
+* **Yuqian Hu**, Beibei Wang, Chenshu Wu, K. J. Ray Liu, Oscar Chi-Lim Au, "Method, apparatus, and system for wirelessly tracking keystrokes", U.S. Patent App. 17/214,836, filed Jul 15, 2021. Granted Nov. 15, 2022.
+* Chenshu Wu, Beibei Wang, Sai Deepika Regani, Feng Zhang, **Yuqian Hu**, Hung-Quoc Duc Lai, Pscar Chi-Lim Au, Dan Bugos, Wenchao Xi, Min Wu, K. J. Ray Liu, "System and method for wireless material sensing based on multipath channel information", Europe Patent Application No. EP21158553.4A. Filed Feb. 22, 2021.
+* Chenshu Wu, Beibei Wang, Sai Deepika Regani, Feng Zhang, **Yuqian Hu**, Hung-Quoc Duc Lai, Pscar Chi-Lim Au, Dan Bugos, Wenchao Xi, Min Wu, K. J. Ray Liu, "System and method for wireless material sensing based on multipath channel information", Europe Patent Application No. JP2021026650A. Filed Feb. 22, 2021.
+* **Yuqian Hu**, Feng Zhang, Beibei Wang, Chenshu Wu, K. J. Ray Liu, Oscar Chi-Lim Au, "Method, apparatus, and system for fall-down detection based on a wireless signal", U.S. Patent App. 17/180,762, filed Feb. 20, 2021. Granted Dec. 20, 2022.
+* Chenshu Wu, Feng Zhang, Beibei Wang, **Yuqian Hu**, K. J. Ray Liu, Oscar Chi-Lim Au, "Method, 	apparatus, and system for wireless gait recognition", U.S. Patent App. 16/790,610, filed Jun. 25, 2020.
+* ChenshuWu, Feng Zhang, BeibeiWang, **Yuqian Hu**, K. J. Ray Liu, Oscar Chi-Lim Au, Xiaolu Zeng, Hung-Quoc Duc Lai, David N. Claffey, Jeng-Feng Lee, Chao-Lun Mai, Zhung-Han Wu, Dan Bugos, Chun-Chia Jack Shih, "Method, Apparatus, and System for Wireless Gait Recognition", Japan Patent Application No. 2020-024532, filed Feb. 17, 2020.
+* ChenshuWu, Feng Zhang, BeibeiWang, **Yuqian Hu**, K. J. Ray Liu, Oscar Chi-Lim Au, Xiaolu Zeng, Hung-Quoc Duc Lai, David N. Claffey, Jeng-Feng Lee, Chao-Lun Mai, Zhung-Han Wu, Dan Bugos, Chun-Chia Jack Shih,"Method, Apparatus, and System for Wireless Gait Recognition", Europe Patent Application No. 20157771.5, filed Feb. 17, 2020.
 
 
 {% if author.googlescholar %}
