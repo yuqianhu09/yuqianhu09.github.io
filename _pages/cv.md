@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-<img src="http://yuqianhu09.github.io/images/ustc.png" width="350">
+<img src="http://yuqianhu09.github.io/images/ustc_logo.png" width="350">
 * B.S. in University of Science and Technology of China (USTC), Hefei, China, 2017
 
-
+<img src="http://yuqianhu09.github.io/images/umd_logo.png" width="350">
 * Ph.D. in Electrical and Computer Engineering, University of Maryland, College Park, 2021
 
 Work experience
