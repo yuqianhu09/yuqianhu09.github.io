@@ -17,6 +17,11 @@ Journal Articles
 
 Conference Papers
 ======
+* Sai Deepika Regani, **Yuqian Hu**, Beibei Wang, and K. J. Ray Liu. 2022. "Wifi-based robust indoor localization for daily activity monitoring," in Proceedings of the 1st ACM Workshop on Mobile and Wireless Sensing for Smart Healthcare (MWSSH '22). Association for Computing Machinery, New York, NY, USA, 1–6. https://doi.org/10.1145/3556551.3561187
+* Jun Wang, Mingfei Gao, **Yuqian Hu**, Ramprasaath R. Selvaraju, Chetan Ramaiah, Ran Xu, Joseph F. JaJa, Larry S. Davis, "TAG: Boosting Text-VQA via Text-aware Visual Question-answer Generation," arXiv preprint arXiv:2208.01813 (2022). Accepted by BMVC 2022. 
+* **Yuqian Hu**, Beibei Wang, Chenshu Wu, K. J. Ray Liu, "Universal Virtual Keyboard using 60 GHz mmWave Radar," 2021 IEEE 7th World Forum on Internet of Things (WF-IoT), New Orleans, LA, USA, 2021, pp. 385-390, doi: 10.1109/WF-IoT51360.2021.9595474.
+* **Yuqian Hu**, M Zahid Ozturk, Feng Zhang, Beibei Wang, K. J. Ray Liu, "Robust Device-Free Proximity Detection Using Wifi," ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Toronto, ON, Canada, 2021, pp. 7918-7922, doi: 10.1109/ICASSP39728.2021.9414707.
+* **Yuqian Hu**, Feng Zhang, Chenshu Wu, Beibei Wang, KJ Ray Liu, "A WiFi-Based Passive Fall Detection System," ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2020, pp. 1723-1727, doi: 10.1109/ICASSP40776.2020.9054753.
 
 
 Selected Patent Applications
