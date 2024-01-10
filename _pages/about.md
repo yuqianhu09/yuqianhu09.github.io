@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Yuqian Hu received the B.S. degree in electrical engineering from the University of Science and Technology of China (USTC) in July 2017, and the Ph.D. degrees in electrical engineering from the University of Maryland, College Park in 2021, where she is honored to be advised by [Prof K. J. Ray Liu](https://kjrayliu.org/) with [the Signal and Information Group (SIG)](http://sig.umd.edu/).
+Yuqian Hu received the B.S. degree in electrical engineering from the University of Science and Technology of China (USTC) in July 2017, and the Ph.D. degrees in electrical engineering from the University of Maryland, College Park in 2021, advised by [Prof K. J. Ray Liu](https://kjrayliu.org/) with [the Signal and Information Group (SIG)](http://sig.umd.edu/).
 
 Since 2022, she has been with Origin Wireless Inc, where a Principal Scientist at Origin Wireless AI, Inc. 
 
