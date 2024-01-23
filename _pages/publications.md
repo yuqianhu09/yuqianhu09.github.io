@@ -28,7 +28,7 @@ author_profile: true
 
 [C3] **Yuqian Hu**, Beibei Wang, Chenshu Wu, K. J. Ray Liu, "[[Universal Virtual Keyboard using 60 GHz mmWave Radar]](https://ieeexplore.ieee.org/abstract/document/9595474)," 2021 IEEE 7th World Forum on Internet of Things (WF-IoT), New Orleans, LA, USA, 2021, pp. 385-390, doi: 10.1109/WF-IoT51360.2021.9595474.
 
-[C2] **Yuqian Hu**, M Zahid Ozturk, Feng Zhang, Beibei Wang, K. J. Ray Liu, "Robust Device-Free Proximity Detection Using Wifi]](https://ieeexplore.ieee.org/abstract/document/9414707)," ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Toronto, ON, Canada, 2021, pp. 7918-7922, doi: 10.1109/ICASSP39728.2021.9414707.
+[C2] **Yuqian Hu**, M Zahid Ozturk, Feng Zhang, Beibei Wang, K. J. Ray Liu, "[[Robust Device-Free Proximity Detection Using Wifi]](https://ieeexplore.ieee.org/abstract/document/9414707)," ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Toronto, ON, Canada, 2021, pp. 7918-7922, doi: 10.1109/ICASSP39728.2021.9414707.
 
 [C1] **Yuqian Hu**, Feng Zhang, Chenshu Wu, Beibei Wang, KJ Ray Liu, "[[A WiFi-Based Passive Fall Detection System]](https://ieeexplore.ieee.org/abstract/document/9054753)," ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2020, pp. 1723-1727, doi: 10.1109/ICASSP40776.2020.9054753.
 
