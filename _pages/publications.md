@@ -34,7 +34,7 @@ author_profile: true
 
 
 ## Selected Patent Applications
-* Sai Deepika Regani, **Hu Yuqian**, Beibei Wang, K. J. Ray Liu, Oscar Chi-Lim Au, "Method, apparatus, and system for correlation-based wireless monitoring and localization", U.S. Patent Application No. 16/790,610, filed Oct. 19, 2023.
+* Sai Deepika Regani, **Hu Yuqian**, Beibei Wang, K. J. Ray Liu, Oscar Chi-Lim Au, "[Method, apparatus, and system for correlation-based wireless monitoring and localization](https://patents.google.com/patent/US20230333201A1/en)", U.S. Patent Application No. 18/211,567, filed June 19, 2023.
 * Beibei Wang, Muhammed Zahid Ozturk, Chenshu Wu, Xiaolu Zeng, Sai Deepika Regani, **Yuqian Hu**, K. J. Ray Liu, Oscar Chi-Lim Au, Yi Han, Hung-Quoc Duc Lai, David N. Claffey, Chun-I Chen, Dan Bugos, Peng Zan, Guozhen Zhu, "System and method for radio-assisted sound sensing", Europe Patent Application No. EP22178761.7A, filed Jun. 13, 2022.
 * Beibei Wang, Muhammed Zahid Ozturk, Chenshu Wu, Xiaolu Zeng, Sai Deepika Regani, **Yuqian Hu**, K. J. Ray Liu, Oscar Chi-Lim Au, Yi Han, Hung-Quoc Duc Lai, David N. Claffey, Chun-I Chen, Dan Bugos, Peng Zan, Guozhen Zhu, "System and method for radio-assisted sound sensing", Japan Patent Application No. JP2022095307A, filed Jun. 13, 2022.
 * **Yuqian Hu**, Beibei Wang, Sai Deepika Regani, Peng Zan, Chenshu Wu, Dan Bugos, ZENG Xiaolu, Hung-Quoc Duc Lai, KJ Ray Liu, Oscar Chi-Lim Au, "Method, apparatus, and system for wireless sensing based on linkwise motion statistics", U.S. Patent Application No. 17/838,244, filed Jun. 12, 2022.
