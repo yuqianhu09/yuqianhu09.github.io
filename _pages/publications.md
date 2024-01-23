@@ -26,7 +26,7 @@ author_profile: true
 
 [C4] Jun Wang, Mingfei Gao, **Yuqian Hu**, Ramprasaath R. Selvaraju, Chetan Ramaiah, Ran Xu, Joseph F. JaJa, Larry S. Davis, "[TAG: Boosting Text-VQA via Text-aware Visual Question-answer Generation](https://bmvc2022.mpi-inf.mpg.de/33/)," arXiv preprint arXiv:2208.01813 (2022). Accepted by BMVC 2022.
 
-[C3] **Yuqian Hu**, Beibei Wang, Chenshu Wu, K. J. Ray Liu, "[Universal Virtual Keyboard using 60 GHz mmWave Radar](https://ieeexplore.ieee.org/abstract/document/9595474)," 2021 IEEE 7th World Forum on Internet of Things (WF-IoT), New Orleans, LA, USA, 2021, pp. 385-390, doi: 10.1109/WF-IoT51360.2021.9595474.
+[C3] **Yuqian Hu**, Beibei Wang, Chenshu Wu, K. J. Ray Liu, "[Universal Virtual Keyboard using 60 GHz mmWave Radar](https://ieeexplore.ieee.org/abstract/document/9595474)," 2021 IEEE 7th World Forum on Internet of Things (WF-IoT), New Orleans, LA, USA, 2021, pp. 385-390, doi: 10.1109/WF-IoT51360.2021.9595474. (**[Best Student Paper](https://cswu.me/images/award-WF-IOT2021-Best-Student-Paper.jpeg)**)
 
 [C2] **Yuqian Hu**, M Zahid Ozturk, Feng Zhang, Beibei Wang, K. J. Ray Liu, "[Robust Device-Free Proximity Detection Using Wifi](https://ieeexplore.ieee.org/abstract/document/9414707)," ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Toronto, ON, Canada, 2021, pp. 7918-7922, doi: 10.1109/ICASSP39728.2021.9414707.
 
