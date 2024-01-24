@@ -13,7 +13,7 @@ redirect_from:
 <img src="http://yuqianhu09.github.io/images/ustc_logo.png" width="350">
 * B.S. in Electronic Engineering and Information Science, University of Science and Technology of China (USTC), Hefei, China, 2017
 
-<img src="http://yuqianhu09.github.io/images/monash_logo.png" width="350">
+<img src="http://yuqianhu09.github.io/images/monash_logo.png" width="250">
 * Visiting student, Monash University, Melbourne, Victoria, Australia, Feb 2017 - May 2017
 
 <img src="http://yuqianhu09.github.io/images/umd_logo.png" width="350">
