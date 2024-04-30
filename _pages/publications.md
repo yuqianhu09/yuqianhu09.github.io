@@ -22,6 +22,10 @@ author_profile: true
 
 ## Conference Papers
 
+[C7] Guozhen Zhu, Beibei Wang, Weihang Gao, **Yuqian Hu**, Chenshu Wu and K. J. Ray Liu, "WiFi-Based Robust Human and Non-human Motion Recognition with Deep Learning," in Proc. IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops), 2024.
+
+[C6] Sakila S. Jayaweera, Sai Deepika Regani, **Yuqian Hu**, Beibei Wang, and K. J. Ray Liu, “mmID: High-Resolution mmWave Imaging for Human Identification,” in Proc. IEEE World Forum on Internet of Things (WF-IoT), 2023
+
 [C5] Sai Deepika Regani, **Yuqian Hu**, Beibei Wang, and K. J. Ray Liu. 2022. "[Wifi-based robust indoor localization for daily activity monitoring](https://doi.org/10.1145/3556551.3561187)," in Proceedings of the 1st ACM Workshop on Mobile and Wireless Sensing for Smart Healthcare (MWSSH '22). Association for Computing Machinery, New York, NY, USA, 1–6. 
 
 [C4] Jun Wang, Mingfei Gao, **Yuqian Hu**, Ramprasaath R. Selvaraju, Chetan Ramaiah, Ran Xu, Joseph F. JaJa, Larry S. Davis, "[TAG: Boosting Text-VQA via Text-aware Visual Question-answer Generation](https://bmvc2022.mpi-inf.mpg.de/33/)," arXiv preprint arXiv:2208.01813 (2022). Accepted by BMVC 2022.
@@ -34,6 +38,9 @@ author_profile: true
 
 
 ## Selected Patent Applications
+* Guozhen Zhu, Beibei Wang, **Yuqian Hu**, Chenshu Wu, Xiaolu Zeng, K. J. Ray Liu, Oscar Chi-Lim Au, “Method, apparatus, and system for wireless human and non-human motion detection”, U.S. Patent Application No. US20240125888A1, filed Dec. 12, 2023.
+* **Yuqian Hu**, Guozhen Zhu, Beibei Wang, K. J. Ray Liu, Oscar Chi-Lim Au, “Method, apparatus, and system for wireless proximity detection”, U.S. Patent Application No. US18/379,622, filed Oct. 12, 2023.
+* Muhammed Zahid Ozturk, Sai Deepika Regani, **Yuqian Hu**, Beibei Wang, K. J. Ray Liu, Yi Han, David N. Claffey, Hung-Quoc Duc Lai, Linghe Wang, Chun-I Chen, Jack Chun-Chia Shih, Oscar Chi-Lim Au, “Method, apparatus, and system for wireless motion monitoring based on classified sliding time windows”, Europe Patent Application No. 23180767.8, filed June 21, 2023.
 * Sai Deepika Regani, **Hu Yuqian**, Beibei Wang, K. J. Ray Liu, Oscar Chi-Lim Au, "[Method, apparatus, and system for correlation-based wireless monitoring and localization](https://patents.google.com/patent/US20230333201A1/en)", U.S. Patent Application No. 18/211,567, filed June 19, 2023.
 * Beibei Wang, Muhammed Zahid Ozturk, Chenshu Wu, Xiaolu Zeng, Sai Deepika Regani, **Yuqian Hu**, K. J. Ray Liu, Oscar Chi-Lim Au, Yi Han, Hung-Quoc Duc Lai, David N. Claffey, Chun-I Chen, Dan Bugos, Peng Zan, Guozhen Zhu, "System and method for radio-assisted sound sensing", Europe Patent Application No. EP22178761.7A, filed Jun. 13, 2022.
 * Beibei Wang, Muhammed Zahid Ozturk, Chenshu Wu, Xiaolu Zeng, Sai Deepika Regani, **Yuqian Hu**, K. J. Ray Liu, Oscar Chi-Lim Au, Yi Han, Hung-Quoc Duc Lai, David N. Claffey, Chun-I Chen, Dan Bugos, Peng Zan, Guozhen Zhu, "System and method for radio-assisted sound sensing", Japan Patent Application No. JP2022095307A, filed Jun. 13, 2022.
