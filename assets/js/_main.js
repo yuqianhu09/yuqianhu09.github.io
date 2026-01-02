@@ -95,4 +95,43 @@ $(document).ready(function(){
     midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
   });
 
+  // Dark mode toggle
+  const themeToggle = document.querySelector('.masthead__theme-toggle');
+  const currentTheme = localStorage.getItem('theme') || 'light';
+  
+  if (currentTheme === 'dark') {
+    document.body.classList.add('dark-mode');
+    if (themeToggle) {
+      themeToggle.querySelector('i').classList.remove('fa-moon');
+      themeToggle.querySelector('i').classList.add('fa-sun');
+    }
+  }
+
+  if (themeToggle) {
+    themeToggle.addEventListener('click', function() {
+      document.body.classList.toggle('dark-mode');
+      const isDark = document.body.classList.contains('dark-mode');
+      const icon = this.querySelector('i');
+      
+      if (isDark) {
+        localStorage.setItem('theme', 'dark');
+        icon.classList.remove('fa-moon');
+        icon.classList.add('fa-sun');
+      } else {
+        localStorage.setItem('theme', 'light');
+        icon.classList.remove('fa-sun');
+        icon.classList.add('fa-moon');
+      }
+    });
+  }
+
+  // Search toggle (placeholder for future search functionality)
+  const searchToggle = document.querySelector('.masthead__search-toggle');
+  if (searchToggle) {
+    searchToggle.addEventListener('click', function() {
+      // Placeholder for search functionality
+      alert('Search functionality coming soon!');
+    });
+  }
+
 });

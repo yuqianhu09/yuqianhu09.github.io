@@ -88,6 +88,7 @@ author:
   pubmed           : 
   googlescholar    :  "https://scholar.google.com/citations?user=k1G0E9AAAAAJ&hl=en"
   email            :
+  cv               :  # Add your CV link here, e.g., "/files/cv.pdf"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
