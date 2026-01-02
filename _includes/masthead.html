@@ -13,10 +13,23 @@
               {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            {% assign current_url = page.url | remove: 'index.html' %}
+            {% if link.url == current_url or (link.url == '/' and current_url == '') %}
+              <li class="masthead__menu-item masthead__menu-item--active"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            {% else %}
+              <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            {% endif %}
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
+        <div class="masthead__actions">
+          <button class="masthead__search-toggle" aria-label="Search" title="Search">
+            <i class="fa fa-search" aria-hidden="true"></i>
+          </button>
+          <button class="masthead__theme-toggle" aria-label="Toggle dark mode" title="Toggle dark mode">
+            <i class="fa fa-moon" aria-hidden="true"></i>
+          </button>
+        </div>
       </nav>
     </div>
   </div>

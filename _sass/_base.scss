@@ -313,3 +313,48 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+/*
+   Dark mode
+   ========================================================================== */
+
+body.dark-mode {
+  background-color: #1a1a1a;
+  color: #e0e0e0;
+
+  .masthead {
+    background-color: #1a1a1a;
+    border-bottom-color: #333;
+  }
+
+  .page {
+    background-color: #1a1a1a;
+  }
+
+  .sidebar {
+    background-color: #1a1a1a;
+  }
+
+  a {
+    color: #4a9eff;
+
+    &:hover {
+      color: #6bb3ff;
+    }
+  }
+
+  .page__content {
+    h2 {
+      border-bottom-color: #333;
+    }
+  }
+
+  .author__urls a {
+    background: #4a9eff;
+    color: #fff;
+
+    &:hover {
+      background: #6bb3ff;
+    }
+  }
+}
