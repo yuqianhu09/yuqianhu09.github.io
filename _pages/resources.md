@@ -10,4 +10,3 @@ nav_order: 5
 # Resources
 
 This page contains useful resources and links.
-

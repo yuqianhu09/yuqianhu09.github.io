@@ -33,6 +33,7 @@ latest_posts:
 Yuqian received the B.S. degree in electrical engineering from the University of Science and Technology of China (USTC) in July 2017, and the Ph.D. degree in electrical engineering from the University of Maryland, College Park in 2021, advised by [Prof K. J. Ray Liu](https://kjrayliu.org/) with [the Signal and Information Group (SIG)](http://sig.umd.edu/).
 
 Since 2022, she has been with [Origin Wireless Inc](https://www.originwirelessai.com/) as a Research scientist, where she currently works on AI-driven wireless sensing technologies,
+
 <!-- where she leads research and development efforts in wireless sensing technologies and AI-driven signal processing systems. -->
 
 Her research interests span across wireless sensing, signal processing, Internet-of-Things (IoT) systems, and machine learning. She is particularly interested in developing innovative solutions that verify the wireless signal quality and leverage wireless signals for indoor environmental monitoring and human detection. Her work combines advanced signal processing techniques with machine learning algorithms to enable next-generation IoT applications that can sense and understand the physical world through wireless communication signals.
