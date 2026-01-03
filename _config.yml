@@ -150,7 +150,7 @@ collections:
       layout: post
     output: true
   projects:
-    output: true
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -177,6 +177,8 @@ exclude:
   - CUSTOMIZE.md
   - Dockerfile
   - docker-compose.yml
+  - _projects/
+  - _posts/
   - docker-compose-slim.yml
   - FAQ.md
   - Gemfile
