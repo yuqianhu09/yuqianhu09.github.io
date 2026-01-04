@@ -1,9 +1,3 @@
 <div class="publications">
-  {% comment %}
-    Bibliography tag disabled - jekyll-scholar plugin may not be available in GitHub Pages build
-    Original: {% bibliography --group_by none --query @*[selected=true]* %}
-  {% endcomment %}
-  <ol class="bibliography">
-    <!-- Selected publications will be rendered here when jekyll-scholar is available -->
-  </ol>
+  {% bibliography --group_by none --query @*[selected=true]* %}
 </div>
