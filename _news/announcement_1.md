@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper _CSI-Bench: A Large-Scale In-the-Wild Dataset for Multi-task WiFi Sensing_ was accepted by NeurIPS 2025!
+Their paper _CSI-Bench: A Large-Scale In-the-Wild Dataset for Multi-task WiFi Sensing_ was accepted by NeurIPS 2025!

@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-Our poster _Efficient Passive Tracking using Commodity WiFi with Single-Shot Training_ was presented in Mobisys 2025.
+Their poster _Efficient Passive Tracking using Commodity WiFi with Single-Shot Training_ was presented in Mobisys 2025.
 
 <!-- Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
 
