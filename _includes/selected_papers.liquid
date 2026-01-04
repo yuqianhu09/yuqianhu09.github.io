@@ -43,7 +43,8 @@
                 {% endfor %}
               </div>
               <div class="periodical">
-                <em>{{ pub.venue }}</em>{% if pub.year %}, {{ pub.year }}{% endif %}
+                <em>{{ pub.venue }}</em>
+                {%- if pub.year %}, {{ pub.year }}{% endif %}
               </div>
               <div class="links">
                 {% if pub.pdf %}

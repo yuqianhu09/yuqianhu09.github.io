@@ -10,6 +10,7 @@ nav_order: 2
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
+
 {% comment %}
 Bibliography tag temporarily disabled - jekyll-scholar plugin not available in GitHub Pages build environment
 {% include bib_search.liquid %}
