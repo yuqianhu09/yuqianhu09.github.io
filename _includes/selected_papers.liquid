@@ -47,23 +47,23 @@
                 {%- if pub.year %}, {{ pub.year }}{% endif %}
               </div>
               {% comment %}
-              <div class="links">
-                {% if pub.pdf %}
-                  <a class="btn btn-sm z-depth-0" role="button" href="{{ pub.pdf | prepend: '/assets/pdf/' | relative_url }}" target="_blank">PDF</a>
-                {% endif %}
-                {% if pub.code %}
-                  <a class="btn btn-sm z-depth-0" role="button" href="{{ pub.code }}" target="_blank">Code</a>
-                {% endif %}
-                {% if pub.website %}
-                  <a class="btn btn-sm z-depth-0" role="button" href="{{ pub.website }}" target="_blank">Website</a>
-                {% endif %}
-                {% if pub.doi %}
-                  <a class="btn btn-sm z-depth-0" role="button" href="https://doi.org/{{ pub.doi }}" target="_blank">DOI</a>
-                {% endif %}
-                {% if pub.arxiv %}
-                  <a class="btn btn-sm z-depth-0" role="button" href="https://arxiv.org/abs/{{ pub.arxiv }}" target="_blank">arXiv</a>
-                {% endif %}
-              </div>
+                <div class="links">
+                  {% if pub.pdf %}
+                    <a class="btn btn-sm z-depth-0" role="button" href="{{ pub.pdf | prepend: '/assets/pdf/' | relative_url }}" target="_blank">PDF</a>
+                  {% endif %}
+                  {% if pub.code %}
+                    <a class="btn btn-sm z-depth-0" role="button" href="{{ pub.code }}" target="_blank">Code</a>
+                  {% endif %}
+                  {% if pub.website %}
+                    <a class="btn btn-sm z-depth-0" role="button" href="{{ pub.website }}" target="_blank">Website</a>
+                  {% endif %}
+                  {% if pub.doi %}
+                    <a class="btn btn-sm z-depth-0" role="button" href="https://doi.org/{{ pub.doi }}" target="_blank">DOI</a>
+                  {% endif %}
+                  {% if pub.arxiv %}
+                    <a class="btn btn-sm z-depth-0" role="button" href="https://arxiv.org/abs/{{ pub.arxiv }}" target="_blank">arXiv</a>
+                  {% endif %}
+                </div>
               {% endcomment %}
             </div>
           </div>
