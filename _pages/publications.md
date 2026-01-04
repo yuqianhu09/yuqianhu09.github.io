@@ -21,6 +21,12 @@ Bibliography tag temporarily disabled - jekyll-scholar plugin not available in G
 </div>
 {% endcomment %}
 <div class="publications">
-  <p>Publications page - bibliography generation disabled in GitHub Pages build environment.</p>
-  <p>To view publications, please check the <a href="{{ '/' | relative_url }}#selected-publications">Selected Publications</a> section on the home page.</p>
+  <p>
+    Publications page - bibliography generation disabled in GitHub Pages build environment.
+  </p>
+  <p>
+    To view publications, please check the
+    <a href="{{ '/' | relative_url }}#selected-publications">Selected Publications</a>
+    section on the home page.
+  </p>
 </div>
