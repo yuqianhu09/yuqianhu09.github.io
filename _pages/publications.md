@@ -15,6 +15,12 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography %}
+{% comment %}
+  Bibliography tag disabled - jekyll-scholar plugin may not be available in GitHub Pages build
+  Original: {% bibliography %}
+{% endcomment %}
+<ol class="bibliography">
+  <!-- Publications will be rendered here when jekyll-scholar is available -->
+</ol>
 
 </div>
