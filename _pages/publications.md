@@ -10,11 +10,17 @@ nav_order: 2
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
-
+{% comment %}
+Bibliography tag temporarily disabled - jekyll-scholar plugin not available in GitHub Pages build environment
 {% include bib_search.liquid %}
 
 <div class="publications">
 
 {% bibliography %}
 
+</div>
+{% endcomment %}
+<div class="publications">
+  <p>Publications page - bibliography generation disabled in GitHub Pages build environment.</p>
+  <p>To view publications, please check the <a href="{{ '/' | relative_url }}#selected-publications">Selected Publications</a> section on the home page.</p>
 </div>
