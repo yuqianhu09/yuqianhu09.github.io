@@ -1,17 +1,18 @@
 ---
 layout: about
-title: about
+title: Yuqian Hu | 胡彧倩
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+nav: true
+nav_order: 0
+subtitle: Principal Scientist at Origin Research
 
 profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  align: left
+  image: yuqianhu2.jpg
+  image_circular: true # crops the image to make it circular
+  # more_info: >
+  #   <p>Ph.D.</p>
+  #   <p>Principal Scientist at OriginWireless Research</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +23,41 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## Biography
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Yuqian received the B.S. degree in electrical engineering from the University of Science and Technology of China (USTC) in July 2017, and the Ph.D. degree in electrical engineering from the University of Maryland, College Park in 2021, advised by [Prof K. J. Ray Liu](https://kjrayliu.org/) with [the Signal and Information Group (SIG)](http://sig.umd.edu/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Since 2022, she has been with [Origin Wireless Inc](https://www.originwirelessai.com/) as a Research scientist, where she currently works on AI-driven wireless sensing technologies,
+
+<!-- where she leads research and development efforts in wireless sensing technologies and AI-driven signal processing systems. -->
+
+Her research interests span across wireless sensing, signal processing, Internet-of-Things (IoT) systems, and machine learning. She is particularly interested in developing innovative solutions that verify the wireless signal quality and leverage wireless signals for indoor environmental monitoring and human detection. Her work combines advanced signal processing techniques with machine learning algorithms to enable next-generation IoT applications that can sense and understand the physical world through wireless communication signals.
+
+<!-- Throughout her career, she has contributed to numerous research projects and publications in the fields of wireless sensing and signal processing, with a focus on practical applications that can improve daily life through intelligent sensing technologies. -->
+
+<!--
+<div class="row" style="margin-top: 1.5rem;">
+  <div class="col-md-6">
+    <h2>Education</h2>
+    <ul>
+      <li><b>Ph.D. in Electrical Engineering</b>, 2021, University of Maryland, College Park</li>
+      <li><b>B.S. in Electrical Engineering</b>, 2017, University of Science and Technology of China (USTC)</li>
+    </ul>
+  </div>
+
+  <div class="col-md-6">
+    <h2>Interests</h2>
+    <ul>
+      <li>Wireless Sensing</li>
+      <li>Signal Processing</li>
+      <li>Internet-of-Things (IoT)</li>
+      <li>Machine Learning</li>
+    </ul>
+  </div>
+</div>
+-->

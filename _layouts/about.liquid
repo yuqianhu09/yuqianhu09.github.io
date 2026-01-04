@@ -1,80 +1,85 @@
 ---
 layout: default
 ---
-<div class="post">
-  <header class="post-header">
-    <h1 class="post-title">
-      {% if site.title == 'blank' %}
-        <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
-        {{ site.last_name }}
-      {% else %}
-        {{ site.title }}
-      {% endif %}
-    </h1>
-    <p class="desc">{{ page.subtitle }}</p>
-  </header>
-
-  <article>
-    {% if page.profile %}
-      <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
-        {% if page.profile.image %}
-          {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
-          {% if page.profile.image_circular %}
-            {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
-          {% else %}
-            {% assign profile_image_class = 'img-fluid z-depth-1
-      rounded' %}
+<div class="post about-page-layout">
+  <div class="about-container">
+    <main class="about-content">
+      <div class="profile-layout-container">
+        <!-- 左列：头像 + 名字 + title + 图标 -->
+        <div class="profile-left-column">
+          {% if page.profile and page.profile.image %}
+            {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
+            <div class="profile-image-wrapper">
+              <img src="{{ profile_image_path | relative_url }}" alt="{{ page.profile.image }}" class="profile-image-circular">
+            </div>
           {% endif %}
-          {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px)
-      30vw, 95vw"{% endcapture %}
-          {%
-            include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
-            cache_bust=true
-          %}
-        {% endif %}
-        {% if page.profile.more_info %}
-          <div class="more-info">{{ page.profile.more_info }}</div>
-        {% endif %}
+          <header class="post-header">
+            <h1 class="post-title">
+              {% if site.title == 'blank' %}
+                <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
+                {{ site.last_name }}
+              {% else %}
+                {{ site.title }}
+              {% endif %}
+            </h1>
+            <p class="desc">{{ page.subtitle }}</p>
+          </header>
+          {% if page.social %}
+            <div class="profile-social-icons-vertical">
+              {% include social.liquid %}
+            </div>
+          {% endif %}
+        </div>
+
+        <!-- 右列：Biography -->
+        <div class="profile-right-column">
+          <article>
+            <div class="content-wrapper">{{ content }}</div>
+          </article>
+        </div>
       </div>
-    {% endif %}
 
-    <div class="clearfix">{{ content }}</div>
+      <article>
+        <!-- News -->
+        {% if page.announcements and page.announcements.enabled %}
+          <hr style="margin-top: 2rem; margin-bottom: 2rem; border-top: 1px solid var(--global-divider-color);">
+          <h2>
+            <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
+          </h2>
+          {% include news.liquid limit=true %}
+        {% endif %}
 
-    <!-- News -->
-    {% if page.announcements and page.announcements.enabled %}
-      <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
-      </h2>
-      {% include news.liquid limit=true %}
-    {% endif %}
+        <!-- Latest posts -->
+        {% if page.latest_posts and page.latest_posts.enabled %}
+          <h2>
+            <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
+          </h2>
+          {% include latest_posts.liquid %}
+        {% endif %}
 
-    <!-- Latest posts -->
-    {% if page.latest_posts and page.latest_posts.enabled %}
-      <h2>
-        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
-      </h2>
-      {% include latest_posts.liquid %}
-    {% endif %}
-
-    <!-- Selected papers -->
-    {% if page.selected_papers %}
-      <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
-      </h2>
-      {% include selected_papers.liquid %}
-    {% endif %}
-
-    <!-- Social -->
-    {% if page.social %}
-      <div class="social">
-        <div class="contact-icons">{% include social.liquid %}</div>
-
-        <div class="contact-note">{{ site.contact_note }}</div>
-      </div>
-    {% endif %}
-
-    {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
-      {% include newsletter.liquid center=true %}
-    {% endif %}
-  </article>
+        <!-- Selected papers -->
+        {% if page.selected_papers %}
+          <div class="selected-publications-wrapper" id="selected-publications">
+            <hr style="margin-top: 2rem; margin-bottom: 2rem; border-top: 1px solid var(--global-divider-color);">
+            <h2>
+              <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected publications</a>
+            </h2>
+            {% include selected_papers.liquid %}
+            {% if site.data.socials.scholar_userid %}
+              <p style="margin-top: 1.5rem; margin-bottom: 0;">
+                <a
+                  href="https://scholar.google.com/citations?user={{ site.data.socials.scholar_userid }}"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  style="color: var(--global-theme-color);"
+                >
+                  Find the full list on Google Scholar
+                </a>
+              </p>
+            {% endif %}
+          </div>
+        {% endif %}
+      </article>
+    </main>
+  </div>
 </div>
