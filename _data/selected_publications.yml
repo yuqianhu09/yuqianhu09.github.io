@@ -1,0 +1,180 @@
+# Selected Publications
+# Add your selected publications here manually
+# Format: List of publications, ordered by year (newest first)
+
+- key: zhu2025csibench
+  title: "CSI-Bench: A Large-Scale In-the-Wild Dataset for Multi-task WiFi Sensing"
+  authors: "Guozhen Zhu, Yuqian Hu, Weihang Gao"
+  venue: "39th Annual Conference on Neural Information Processing Systems (NeurIPS)"
+  year: 2025
+  preview: csibench_concept.PNG
+  pdf: ""
+  code: ""
+  website: ""
+  doi: ""
+
+- key: zhu2025scalingwifisensing
+  title: "Experience Paper: Scaling WiFi Sensing to Millions of Commodity Devices for Ubiquitous Home Monitoring"
+  authors: "Guozhen Zhu, Yuqian Hu, Chenshu Wu"
+  venue: "arXiv preprint arXiv:2506.04322"
+  year: 2025
+  preview: experience_paper_concept.PNG
+  pdf: ""
+  code: ""
+  website: ""
+  arxiv: "2506.04322"
+
+- key: hu2024goodcsi
+  title: "What you need is a good CSI"
+  authors: "Yuqian Hu, Guozhen Zhu, Wei-Hsiang Wang, Beibei Wang, K. J. Ray Liu"
+  venue: "Proceedings of the 30th Annual International Conference on Mobile Computing and Networking (MobiCom '24)"
+  year: 2024
+  preview: goodcsi_concept.PNG
+  pdf: ""
+  code: ""
+  website: ""
+  doi: "10.1145/3636534.3697434"
+
+- key: wang2022boostingtextvqa
+  title: "TAG: Boosting Text-VQA via Text-aware Visual Question-answer Generation"
+  authors: "Jun Wang, Mingfei Gao, Yuqian Hu, Ramprasaath R. Selvaraju, Chetan Ramaiah, Ran Xu, Joseph F. JaJa, Larry S. Davis"
+  venue: "British Machine Vision Conference (BMVC)"
+  year: 2022
+  preview: tag_concept.PNG
+  pdf: ""
+  code: ""
+  website: ""
+  doi: ""
+
+- key: regani2022wifiindoorlocalization
+  title: "Wifi-based robust indoor localization for daily activity monitoring"
+  authors: "Sai Deepika Regani, Yuqian Hu, Beibei Wang, K. J. Ray Liu"
+  venue: "Proceedings of the 1st ACM Workshop on Mobile and Wireless Sensing for Smart Healthcare (MWSSH '22)"
+  year: 2022
+  preview: wilo_concept.PNG
+  pdf: ""
+  code: ""
+  website: ""
+  doi: "10.1145/3556551.3561187"
+
+- key: wang2024passivewifi
+  title: "Passive WiFi-Based Indoor Localization Through Multi-Domain Features"
+  authors: "Wei-Hsiang Wang, Beibei Wang, Yuqian Hu, Guozhen Zhu, K. J. Ray Liu"
+  venue: "2024 IEEE 10th World Forum on Internet of Things (WF-IoT)"
+  year: 2024
+  preview: passive_wifi_localization_concept.PNG
+  pdf: ""
+  code: ""
+  website: ""
+  doi: "10.1109/WF-IoT62078.2024.10811324"
+
+- key: regani2025fallaware
+  title: "FallAware: An Explainable Learning Approach to Robust Fall Detection With WiFi"
+  authors: "Sai Deepika Regani, Beibei Wang, Yuqian Hu, Guozhen Zhu, K. J. Ray Liu"
+  venue: "IEEE Journal of Selected Areas in Sensors"
+  year: 2025
+  preview: fallaware_concept.PNG
+  pdf: ""
+  code: ""
+  website: ""
+  doi: "10.1109/JSAS.2024.3520517"
+
+- key: zhu2025srcsense
+  title: "SrcSense: Robust WiFi-Based Motion Source Recognition via Signal-Informed Deep Learning"
+  authors: "Guozhen Zhu, Beibei Wang, Wei Gao, Yuqian Hu, Chenshu Wu, K. J. Ray Liu"
+  venue: "IEEE Journal of Selected Areas in Sensors"
+  year: 2025
+  preview: srcsense_concept.PNG
+  pdf: ""
+  code: ""
+  website: ""
+  doi: "10.1109/JSAS.2024.3517514"
+
+- key: hu2023robustproximity
+  title: "Robust Proximity Detection Using On-Device Gait Monitoring"
+  authors: "Yuqian Hu, Guozhen Zhu, Beibei Wang, K. J. Ray Liu"
+  venue: "2023 IEEE 9th World Forum on Internet of Things (WF-IoT)"
+  year: 2023
+  preview: robust_proximity_gait_concept.PNG
+  pdf: ""
+  code: ""
+  website: ""
+  doi: "10.1109/WF-IoT58464.2023.10539587"
+
+- key: jayaweera2024hrnet
+  title: "HRNet: High-Resolution Neural Network for Human Imaging Using mmWave Radar"
+  authors: "Sakila S. Jayaweera, Sai Deepika Regani, Yuqian Hu, Beibei Wang, K. J. Ray Liu"
+  venue: "IEEE Internet of Things Journal"
+  year: 2024
+  preview: hrnet_concept.PNG
+  pdf: ""
+  code: ""
+  website: ""
+  doi: ""
+
+- key: zhu2023wimoid
+  title: "WI-MOID: Human and Non-Human Motion Discrimination Using WiFi With Edge Computing"
+  authors: "Guozhen Zhu, Yuqian Hu, Beibei Wang, Chenshu Wu, Xiaolu Zeng, K. J. Ray Liu"
+  venue: "IEEE Internet of Things Journal"
+  year: 2023
+  preview: wimoid_concept.PNG
+  pdf: ""
+  code: ""
+  website: ""
+  doi: ""
+
+- key: regani2023gwrite
+  title: "GWrite: Enabling Through-the-Wall Gesture Writing Recognition Using WiFi"
+  authors: "Sai Deepika Regani, Beibei Wang, Yuqian Hu, K. J. Ray Liu"
+  venue: "IEEE Internet of Things Journal"
+  year: 2023
+  preview: gwrite_concept.PNG
+  pdf: ""
+  code: ""
+  website: ""
+  doi: ""
+
+- key: hu2023robust
+  title: "Robust Passive Proximity Detection Using Wi-Fi"
+  authors: "Yuqian Hu, Muhammed Zahid Ozturk, Beibei Wang, Chenshu Wu, Feng Zhang, K. J. Ray Liu"
+  venue: "IEEE Internet of Things Journal"
+  year: 2023
+  preview: robust_proximity_concept.PNG
+  pdf: ""
+  code: ""
+  website: ""
+  doi: ""
+
+- key: hu2021mmkey
+  title: "mmKey: Universal Virtual Keyboard using A Single Millimeter Wave Radio"
+  authors: "Yuqian Hu, Beibei Wang, Chenshu Wu, K. J. Ray Liu"
+  venue: "IEEE Internet of Things Journal"
+  year: 2021
+  preview: mmkey_concept.PNG
+  pdf: ""
+  code: ""
+  website: ""
+  doi: ""
+
+- key: hu2021defall
+  title: "DeFall: Environment-Independent Passive Fall Detection using WiFi"
+  authors: "Yuqian Hu, Feng Zhang, Chenshu Wu, Beibei Wang, K. J. Ray Liu"
+  venue: "IEEE Internet of Things Journal"
+  year: 2021
+  preview: defall_concept.PNG
+  pdf: ""
+  code: ""
+  website: ""
+  doi: ""
+
+- key: wu2020gaitway
+  title: "GaitWay: Monitoring and Recognizing Gait Speed Through the Walls"
+  authors: "Chenshu Wu, Feng Zhang, Yuqian Hu, K. J. Ray Liu"
+  venue: "IEEE Transactions on Mobile Computing"
+  year: 2020
+  preview: gaitway_concept.PNG
+  pdf: ""
+  code: ""
+  website: ""
+  doi: ""
+

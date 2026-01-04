@@ -1,3 +1,80 @@
 <div class="publications">
-  {% bibliography --group_by none --query @*[selected=true]* %}
+  {% if site.data.selected_publications %}
+    <ol class="bibliography">
+      {% assign sorted_pubs = site.data.selected_publications | sort: 'year' | reverse %}
+      {% for pub in sorted_pubs %}
+        <li>
+          <div class="row">
+            {% if site.enable_publication_thumbnails and pub.preview %}
+              <div class="col col-sm-2 abbr">
+                {% assign entry_path = pub.preview | prepend: '/assets/img/publication_preview/' %}
+                {%
+                  include figure.liquid
+                  loading="eager"
+                  path=entry_path
+                  sizes = "200px"
+                  class="preview z-depth-1 rounded"
+                  zoomable=true
+                  avoid_scaling=true
+                  alt=pub.preview
+                %}
+              </div>
+            {% endif %}
+            <div id="{{ pub.key }}" class="{% if site.enable_publication_thumbnails and pub.preview %}col-sm-8{% else %}col-sm-10{% endif %}">
+              <div class="title">{{ pub.title }}</div>
+              <div class="author">
+                {% assign authors_array = pub.authors | split: ', ' %}
+                {% for author in authors_array %}
+                  {% assign author_is_self = false %}
+                  {% if author contains 'Yuqian Hu' %}
+                    {% assign author_is_self = true %}
+                  {% endif %}
+                  {% if forloop.length > 1 %}
+                    {% if forloop.first == false %}
+                      {% if forloop.length > 2 %}, {% elsif forloop.length == 2 %}  {% endif %}
+                    {% endif %}
+                    {% if forloop.last %}and {% endif %}
+                  {% endif %}
+                  {% if author_is_self %}
+                    <em>{{ author }}</em>
+                  {% else %}
+                    {{ author }}
+                  {% endif %}
+                {% endfor %}
+              </div>
+              <div class="periodical">
+                <em>{{ pub.venue }}</em>{% if pub.year %}, {{ pub.year }}{% endif %}
+              </div>
+              <div class="links">
+                {% if pub.pdf %}
+                  <a class="btn btn-sm z-depth-0" role="button" href="{{ pub.pdf | prepend: '/assets/pdf/' | relative_url }}" target="_blank">PDF</a>
+                {% endif %}
+                {% if pub.code %}
+                  <a class="btn btn-sm z-depth-0" role="button" href="{{ pub.code }}" target="_blank">Code</a>
+                {% endif %}
+                {% if pub.website %}
+                  <a class="btn btn-sm z-depth-0" role="button" href="{{ pub.website }}" target="_blank">Website</a>
+                {% endif %}
+                {% if pub.doi %}
+                  <a class="btn btn-sm z-depth-0" role="button" href="https://doi.org/{{ pub.doi }}" target="_blank">DOI</a>
+                {% endif %}
+                {% if pub.arxiv %}
+                  <a class="btn btn-sm z-depth-0" role="button" href="https://arxiv.org/abs/{{ pub.arxiv }}" target="_blank">arXiv</a>
+                {% endif %}
+              </div>
+            </div>
+          </div>
+        </li>
+      {% endfor %}
+    </ol>
+  {% else %}
+    {% comment %}
+      Fallback: If YAML file doesn't exist, show message or try bibliography tag
+      Bibliography tag temporarily disabled - jekyll-scholar plugin not available in GitHub Pages build environment
+      Original: {% bibliography --group_by none --query @*[selected=true]* %}
+    {% endcomment %}
+    <ol class="bibliography">
+      <li>Please add selected publications to <code>_data/selected_publications.yml</code></li>
+    </ol>
+  {% endif %}
 </div>
