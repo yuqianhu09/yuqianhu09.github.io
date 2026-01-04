@@ -43,11 +43,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-poster-efficient-passive-tracking-using-commodity-wifi-with-single-shot-training-was-presented-in-mobisys-2025",
-          title: 'Our poster Efficient Passive Tracking using Commodity WiFi with Single-Shot Training was presented...',
+            },},{id: "news-their-poster-efficient-passive-tracking-using-commodity-wifi-with-single-shot-training-was-presented-in-mobisys-2025",
+          title: 'Their poster Efficient Passive Tracking using Commodity WiFi with Single-Shot Training was presented...',
           description: "",
-          section: "News",},{id: "news-our-paper-csi-bench-a-large-scale-in-the-wild-dataset-for-multi-task-wifi-sensing-was-accepted-by-neurips-2025",
-          title: 'Our paper CSI-Bench: A Large-Scale In-the-Wild Dataset for Multi-task WiFi Sensing was accepted...',
+          section: "News",},{id: "news-their-paper-csi-bench-a-large-scale-in-the-wild-dataset-for-multi-task-wifi-sensing-was-accepted-by-neurips-2025",
+          title: 'Their paper CSI-Bench: A Large-Scale In-the-Wild Dataset for Multi-task WiFi Sensing was accepted...',
           description: "",
           section: "News",},{
         id: 'social-email',
