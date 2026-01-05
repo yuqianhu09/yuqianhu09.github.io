@@ -20,8 +20,6 @@
   year: 2025
   preview: experience_paper_concept.PNG
   pdf: ""
-  code: ""
-  website: ""
   arxiv: "2506.04322"
 
 - key: hu2024goodcsi
@@ -31,13 +29,11 @@
   year: 2024
   preview: goodcsi_concept.PNG
   pdf: ""
-  code: ""
-  website: ""
   doi: "10.1145/3636534.3697434"
 
 - key: wang2022boostingtextvqa
   title: "TAG: Boosting Text-VQA via Text-aware Visual Question-answer Generation"
-  authors: "Jun Wang, Mingfei Gao, Yuqian Hu, Ramprasaath R. Selvaraju, Chetan Ramaiah, Ran Xu, Joseph F. JaJa, Larry S. Davis"
+  authors: "Jun Wang, Mingfei Gao, Yuqian Hu, Ramprasaath Selvaraju, Chetan Ramaiah, Ran Xu, Joseph JaJa, Larry Davis"
   venue: "British Machine Vision Conference (BMVC)"
   year: 2022
   preview: tag_concept.PNG
