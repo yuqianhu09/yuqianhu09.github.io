@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-26'
+  last_updated: '2026-01-28'
 papers:
   k1G0E9AAAAAJ:0EnyYjriUFMC:
     citations: 15
@@ -30,11 +30,11 @@ papers:
     title: 'Poster: Efficient Passive Tracking using Commodity WiFi with Single-Shot Training'
     year: '2025'
   k1G0E9AAAAAJ:9yKSN-GCB0IC:
-    citations: 118
+    citations: 120
     title: 'GaitWay: Monitoring and recognizing gait speed through the walls'
     year: '2020'
   k1G0E9AAAAAJ:IjCSPb-OGe4C:
-    citations: 109
+    citations: 110
     title: 'DeFall: Environment-independent passive fall detection using WiFi'
     year: '2021'
   k1G0E9AAAAAJ:KlAtU1dfN6UC:
@@ -70,7 +70,7 @@ papers:
     title: Device-Free Room-Level Localization With WiFi Utilizing Spatial-Frequency-Time Diversity
     year: '2024'
   k1G0E9AAAAAJ:UebtZRa9Y70C:
-    citations: 19
+    citations: 20
     title: 'GWrite: Enabling through-the-wall gesture writing recognition using WiFi'
     year: '2022'
   k1G0E9AAAAAJ:W7OEmFMy1HYC:
