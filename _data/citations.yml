@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-28'
+  last_updated: '2026-02-11'
 papers:
   k1G0E9AAAAAJ:0EnyYjriUFMC:
     citations: 15
@@ -18,7 +18,7 @@ papers:
     title: 'Srcsense: Robust wifi-based motion source recognition via signal-informed deep learning'
     year: '2024'
   k1G0E9AAAAAJ:5nxA0vEk-isC:
-    citations: 5
+    citations: 6
     title: 'mmID: High-resolution mmWave imaging for human identification'
     year: '2023'
   k1G0E9AAAAAJ:8k81kl-MbHgC:
@@ -42,7 +42,7 @@ papers:
     title: Method, apparatus, and system for wireless sensing based on deep learning
     year: '2025'
   k1G0E9AAAAAJ:LkGwnXOMwfcC:
-    citations: 129
+    citations: 130
     title: Method, apparatus, and system for identifying and qualifying devices for wireless sensing
     year: '2022'
   k1G0E9AAAAAJ:M3ejUd6NZC8C:
@@ -66,7 +66,7 @@ papers:
     title: Method, apparatus, and system for wireless proximity sensing
     year: '2021'
   k1G0E9AAAAAJ:ULOm3_A8WrAC:
-    citations: 4
+    citations: 3
     title: Device-Free Room-Level Localization With WiFi Utilizing Spatial-Frequency-Time Diversity
     year: '2024'
   k1G0E9AAAAAJ:UebtZRa9Y70C:
@@ -78,7 +78,7 @@ papers:
     title: Method, apparatus, and system for wireless gait recognition
     year: '2020'
   k1G0E9AAAAAJ:WF5omc3nYNoC:
-    citations: 27
+    citations: 28
     title: 'Tag: Boosting text-vqa via text-aware visual question-answer generation'
     year: '2022'
   k1G0E9AAAAAJ:Wp0gIr-vW9MC:
@@ -110,7 +110,7 @@ papers:
     title: What you need is a good CSI
     year: '2024'
   k1G0E9AAAAAJ:aqlVkmm33-oC:
-    citations: 1
+    citations: 3
     title: 'CSI-Bench: A Large-Scale In-the-Wild Dataset for Multi-task WiFi Sensing'
     year: '2025'
   k1G0E9AAAAAJ:d1gkVwhDpl0C:
