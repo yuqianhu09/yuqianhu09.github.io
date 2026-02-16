@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-02-11'
+  last_updated: '2026-02-16'
 papers:
   k1G0E9AAAAAJ:0EnyYjriUFMC:
-    citations: 15
+    citations: 16
     title: 'Wi-MoID: Human and nonhuman motion discrimination using WiFi with edge computing'
     year: '2023'
   k1G0E9AAAAAJ:3fE2CSJIrl8C:
@@ -11,14 +11,14 @@ papers:
     year: '2024'
   k1G0E9AAAAAJ:4DMP91E08xMC:
     citations: 3
-    title: 'Experience Paper: Scaling WiFi Sensing to Millions of Commodity Devices for Ubiquitous Home Monitoring'
+    title: 'Experience paper: Scaling wifi sensing to millions of commodity devices for ubiquitous home monitoring'
     year: '2025'
   k1G0E9AAAAAJ:4TOpqqG69KYC:
-    citations: 4
-    title: 'Srcsense: Robust wifi-based motion source recognition via signal-informed deep learning'
+    citations: 5
+    title: 'SrcSense: Robust WiFi-based motion source recognition via signal-informed deep learning'
     year: '2024'
   k1G0E9AAAAAJ:5nxA0vEk-isC:
-    citations: 6
+    citations: 7
     title: 'mmID: High-resolution mmWave imaging for human identification'
     year: '2023'
   k1G0E9AAAAAJ:8k81kl-MbHgC:
@@ -34,7 +34,7 @@ papers:
     title: 'GaitWay: Monitoring and recognizing gait speed through the walls'
     year: '2020'
   k1G0E9AAAAAJ:IjCSPb-OGe4C:
-    citations: 110
+    citations: 111
     title: 'DeFall: Environment-independent passive fall detection using WiFi'
     year: '2021'
   k1G0E9AAAAAJ:KlAtU1dfN6UC:
@@ -42,12 +42,12 @@ papers:
     title: Method, apparatus, and system for wireless sensing based on deep learning
     year: '2025'
   k1G0E9AAAAAJ:LkGwnXOMwfcC:
-    citations: 130
+    citations: 131
     title: Method, apparatus, and system for identifying and qualifying devices for wireless sensing
     year: '2022'
   k1G0E9AAAAAJ:M3ejUd6NZC8C:
-    citations: 4
-    title: 'FallAware: An Explainable Learning Approach to Robust Fall Detection With WiFi'
+    citations: 5
+    title: 'FallAware: An explainable learning approach to robust fall detection with WiFi'
     year: '2024'
   k1G0E9AAAAAJ:MXK_kJrjxJIC:
     citations: 2
@@ -62,23 +62,23 @@ papers:
     title: Robust passive proximity detection using wi-fi
     year: '2022'
   k1G0E9AAAAAJ:Tyk-4Ss8FVUC:
-    citations: 25
+    citations: 26
     title: Method, apparatus, and system for wireless proximity sensing
     year: '2021'
   k1G0E9AAAAAJ:ULOm3_A8WrAC:
-    citations: 3
-    title: Device-Free Room-Level Localization With WiFi Utilizing Spatial-Frequency-Time Diversity
+    citations: 4
+    title: "Device-free room-level localization with WiFi utilizing spatial-frequency\u2013time diversity"
     year: '2024'
   k1G0E9AAAAAJ:UebtZRa9Y70C:
     citations: 20
     title: 'GWrite: Enabling through-the-wall gesture writing recognition using WiFi'
     year: '2022'
   k1G0E9AAAAAJ:W7OEmFMy1HYC:
-    citations: 1
+    citations: 22
     title: Method, apparatus, and system for wireless gait recognition
     year: '2020'
   k1G0E9AAAAAJ:WF5omc3nYNoC:
-    citations: 28
+    citations: 27
     title: 'Tag: Boosting text-vqa via text-aware visual question-answer generation'
     year: '2022'
   k1G0E9AAAAAJ:Wp0gIr-vW9MC:
@@ -91,7 +91,7 @@ papers:
     year: '2021'
   k1G0E9AAAAAJ:YOwf2qJgpHMC:
     citations: 6
-    title: 'HRNet: High-Resolution Neural Network for Human Imaging Using mmWave Radar'
+    title: 'HRNet: High-resolution neural network for human imaging using mmWave radar'
     year: '2024'
   k1G0E9AAAAAJ:YsMSGLbcyi4C:
     citations: 0
@@ -102,19 +102,19 @@ papers:
     title: Practical WiFi Sensing for Human and Non-human Motion Identification on the Edge
     year: '2024'
   k1G0E9AAAAAJ:_FxGoFyzp5QC:
-    citations: 4
+    citations: 0
     title: Method, apparatus, and system for wireless sensing based on linkwise motion statistics
     year: '2025'
   k1G0E9AAAAAJ:_kc_bZDykSQC:
     citations: 3
-    title: What you need is a good CSI
+    title: What you need is a good csi
     year: '2024'
   k1G0E9AAAAAJ:aqlVkmm33-oC:
-    citations: 3
+    citations: 4
     title: 'CSI-Bench: A Large-Scale In-the-Wild Dataset for Multi-task WiFi Sensing'
     year: '2025'
   k1G0E9AAAAAJ:d1gkVwhDpl0C:
-    citations: 26
+    citations: 25
     title: 'mmKey: Universal Virtual Keyboard Using A Single Millimeter-Wave Radio'
     year: '2021'
   k1G0E9AAAAAJ:eQOLeE2rZwMC:
@@ -122,12 +122,12 @@ papers:
     title: Universal Virtual Keyboard using 60 GHz mmWave Radar
     year: '2021'
   k1G0E9AAAAAJ:hqOjcs7Dif8C:
-    citations: 8
+    citations: 0
     title: Method, apparatus, and system for correlation-based wireless monitoring and localization
     year: '2024'
   k1G0E9AAAAAJ:kNdYIx-mwKoC:
-    citations: 1
-    title: Robust Proximity Detection using On-Device Gait Monitoring
+    citations: 2
+    title: Robust proximity detection using on-device gait monitoring
     year: '2023'
   k1G0E9AAAAAJ:mVmsd5A6BfQC:
     citations: 0
