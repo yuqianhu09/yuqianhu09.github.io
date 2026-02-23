@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-16'
+  last_updated: '2026-02-23'
 papers:
   k1G0E9AAAAAJ:0EnyYjriUFMC:
     citations: 16
@@ -14,7 +14,7 @@ papers:
     title: 'Experience paper: Scaling wifi sensing to millions of commodity devices for ubiquitous home monitoring'
     year: '2025'
   k1G0E9AAAAAJ:4TOpqqG69KYC:
-    citations: 5
+    citations: 6
     title: 'SrcSense: Robust WiFi-based motion source recognition via signal-informed deep learning'
     year: '2024'
   k1G0E9AAAAAJ:5nxA0vEk-isC:
@@ -34,7 +34,7 @@ papers:
     title: 'GaitWay: Monitoring and recognizing gait speed through the walls'
     year: '2020'
   k1G0E9AAAAAJ:IjCSPb-OGe4C:
-    citations: 111
+    citations: 112
     title: 'DeFall: Environment-independent passive fall detection using WiFi'
     year: '2021'
   k1G0E9AAAAAJ:KlAtU1dfN6UC:
@@ -42,7 +42,7 @@ papers:
     title: Method, apparatus, and system for wireless sensing based on deep learning
     year: '2025'
   k1G0E9AAAAAJ:LkGwnXOMwfcC:
-    citations: 131
+    citations: 132
     title: Method, apparatus, and system for identifying and qualifying devices for wireless sensing
     year: '2022'
   k1G0E9AAAAAJ:M3ejUd6NZC8C:
@@ -66,7 +66,7 @@ papers:
     title: Method, apparatus, and system for wireless proximity sensing
     year: '2021'
   k1G0E9AAAAAJ:ULOm3_A8WrAC:
-    citations: 4
+    citations: 5
     title: "Device-free room-level localization with WiFi utilizing spatial-frequency\u2013time diversity"
     year: '2024'
   k1G0E9AAAAAJ:UebtZRa9Y70C:
@@ -78,7 +78,7 @@ papers:
     title: Method, apparatus, and system for wireless gait recognition
     year: '2020'
   k1G0E9AAAAAJ:WF5omc3nYNoC:
-    citations: 27
+    citations: 28
     title: 'Tag: Boosting text-vqa via text-aware visual question-answer generation'
     year: '2022'
   k1G0E9AAAAAJ:Wp0gIr-vW9MC:
@@ -86,7 +86,7 @@ papers:
     title: Wireless sensing using measurement enhancement
     year: '2025'
   k1G0E9AAAAAJ:Y0pCki6q_DkC:
-    citations: 13
+    citations: 14
     title: Method, apparatus, and system for fall-down detection based on a wireless signal
     year: '2021'
   k1G0E9AAAAAJ:YOwf2qJgpHMC:
@@ -106,17 +106,21 @@ papers:
     title: Method, apparatus, and system for wireless sensing based on linkwise motion statistics
     year: '2025'
   k1G0E9AAAAAJ:_kc_bZDykSQC:
-    citations: 3
+    citations: 4
     title: What you need is a good csi
     year: '2024'
   k1G0E9AAAAAJ:aqlVkmm33-oC:
-    citations: 4
+    citations: 5
     title: 'CSI-Bench: A Large-Scale In-the-Wild Dataset for Multi-task WiFi Sensing'
     year: '2025'
   k1G0E9AAAAAJ:d1gkVwhDpl0C:
     citations: 25
     title: 'mmKey: Universal Virtual Keyboard Using A Single Millimeter-Wave Radio'
     year: '2021'
+  k1G0E9AAAAAJ:dhFuZR0502QC:
+    citations: 0
+    title: 'AM-FM: A Foundation Model for Ambient Intelligence Through WiFi'
+    year: '2026'
   k1G0E9AAAAAJ:eQOLeE2rZwMC:
     citations: 1
     title: Universal Virtual Keyboard using 60 GHz mmWave Radar
