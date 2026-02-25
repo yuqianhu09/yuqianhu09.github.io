@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-23'
+  last_updated: '2026-02-25'
 papers:
   k1G0E9AAAAAJ:0EnyYjriUFMC:
     citations: 16
@@ -18,7 +18,7 @@ papers:
     title: 'SrcSense: Robust WiFi-based motion source recognition via signal-informed deep learning'
     year: '2024'
   k1G0E9AAAAAJ:5nxA0vEk-isC:
-    citations: 7
+    citations: 8
     title: 'mmID: High-resolution mmWave imaging for human identification'
     year: '2023'
   k1G0E9AAAAAJ:8k81kl-MbHgC:
@@ -34,7 +34,7 @@ papers:
     title: 'GaitWay: Monitoring and recognizing gait speed through the walls'
     year: '2020'
   k1G0E9AAAAAJ:IjCSPb-OGe4C:
-    citations: 112
+    citations: 111
     title: 'DeFall: Environment-independent passive fall detection using WiFi'
     year: '2021'
   k1G0E9AAAAAJ:KlAtU1dfN6UC:
