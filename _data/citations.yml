@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-04'
+  last_updated: '2026-03-09'
 papers:
   k1G0E9AAAAAJ:0EnyYjriUFMC:
     citations: 16
@@ -34,7 +34,7 @@ papers:
     title: 'GaitWay: Monitoring and recognizing gait speed through the walls'
     year: '2020'
   k1G0E9AAAAAJ:IjCSPb-OGe4C:
-    citations: 111
+    citations: 112
     title: 'DeFall: Environment-independent passive fall detection using WiFi'
     year: '2021'
   k1G0E9AAAAAJ:KlAtU1dfN6UC:
@@ -90,7 +90,7 @@ papers:
     title: Method, apparatus, and system for fall-down detection based on a wireless signal
     year: '2021'
   k1G0E9AAAAAJ:YOwf2qJgpHMC:
-    citations: 6
+    citations: 7
     title: 'HRNet: High-resolution neural network for human imaging using mmWave radar'
     year: '2024'
   k1G0E9AAAAAJ:YsMSGLbcyi4C:
