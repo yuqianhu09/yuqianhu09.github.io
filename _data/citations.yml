@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-09'
+  last_updated: '2026-03-18'
 papers:
   k1G0E9AAAAAJ:0EnyYjriUFMC:
     citations: 16
@@ -10,7 +10,7 @@ papers:
     title: WiFi-based robust human and non-human motion recognition with deep learning
     year: '2024'
   k1G0E9AAAAAJ:4DMP91E08xMC:
-    citations: 3
+    citations: 4
     title: 'Experience paper: Scaling wifi sensing to millions of commodity devices for ubiquitous home monitoring'
     year: '2025'
   k1G0E9AAAAAJ:4TOpqqG69KYC:
@@ -34,7 +34,7 @@ papers:
     title: 'GaitWay: Monitoring and recognizing gait speed through the walls'
     year: '2020'
   k1G0E9AAAAAJ:IjCSPb-OGe4C:
-    citations: 112
+    citations: 113
     title: 'DeFall: Environment-independent passive fall detection using WiFi'
     year: '2021'
   k1G0E9AAAAAJ:KlAtU1dfN6UC:
@@ -70,7 +70,7 @@ papers:
     title: "Device-free room-level localization with WiFi utilizing spatial-frequency\u2013time diversity"
     year: '2024'
   k1G0E9AAAAAJ:UebtZRa9Y70C:
-    citations: 20
+    citations: 21
     title: 'GWrite: Enabling through-the-wall gesture writing recognition using WiFi'
     year: '2022'
   k1G0E9AAAAAJ:W7OEmFMy1HYC:
