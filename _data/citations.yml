@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-03-18'
+  last_updated: '2026-03-25'
 papers:
   k1G0E9AAAAAJ:0EnyYjriUFMC:
     citations: 16
     title: 'Wi-MoID: Human and nonhuman motion discrimination using WiFi with edge computing'
     year: '2023'
   k1G0E9AAAAAJ:3fE2CSJIrl8C:
-    citations: 10
+    citations: 11
     title: WiFi-based robust human and non-human motion recognition with deep learning
     year: '2024'
   k1G0E9AAAAAJ:4DMP91E08xMC:
@@ -30,11 +30,11 @@ papers:
     title: 'Poster: Efficient Passive Tracking using Commodity WiFi with Single-Shot Training'
     year: '2025'
   k1G0E9AAAAAJ:9yKSN-GCB0IC:
-    citations: 120
+    citations: 121
     title: 'GaitWay: Monitoring and recognizing gait speed through the walls'
     year: '2020'
   k1G0E9AAAAAJ:IjCSPb-OGe4C:
-    citations: 113
+    citations: 116
     title: 'DeFall: Environment-independent passive fall detection using WiFi'
     year: '2021'
   k1G0E9AAAAAJ:KlAtU1dfN6UC:
@@ -46,7 +46,7 @@ papers:
     title: Method, apparatus, and system for identifying and qualifying devices for wireless sensing
     year: '2022'
   k1G0E9AAAAAJ:M3ejUd6NZC8C:
-    citations: 6
+    citations: 7
     title: 'FallAware: An explainable learning approach to robust fall detection with WiFi'
     year: '2024'
   k1G0E9AAAAAJ:MXK_kJrjxJIC:
@@ -62,7 +62,7 @@ papers:
     title: Robust passive proximity detection using wi-fi
     year: '2022'
   k1G0E9AAAAAJ:Tyk-4Ss8FVUC:
-    citations: 26
+    citations: 28
     title: Method, apparatus, and system for wireless proximity sensing
     year: '2021'
   k1G0E9AAAAAJ:ULOm3_A8WrAC:
@@ -110,7 +110,7 @@ papers:
     title: What you need is a good csi
     year: '2024'
   k1G0E9AAAAAJ:aqlVkmm33-oC:
-    citations: 5
+    citations: 7
     title: 'CSI-Bench: A Large-Scale In-the-Wild Dataset for Multi-task WiFi Sensing'
     year: '2025'
   k1G0E9AAAAAJ:d1gkVwhDpl0C:
@@ -150,7 +150,7 @@ papers:
     title: A WiFi-based passive fall detection system
     year: '2020'
   k1G0E9AAAAAJ:ufrVoPGSRksC:
-    citations: 9
+    citations: 10
     title: Wifi-based robust indoor localization for daily activity monitoring
     year: '2022'
   k1G0E9AAAAAJ:zYLM7Y9cAGgC:
