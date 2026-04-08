@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-03-30'
+  last_updated: '2026-04-08'
 papers:
   k1G0E9AAAAAJ:0EnyYjriUFMC:
     citations: 16
     title: 'Wi-MoID: Human and nonhuman motion discrimination using WiFi with edge computing'
     year: '2023'
   k1G0E9AAAAAJ:3fE2CSJIrl8C:
-    citations: 11
+    citations: 12
     title: WiFi-based robust human and non-human motion recognition with deep learning
     year: '2024'
   k1G0E9AAAAAJ:4DMP91E08xMC:
@@ -146,7 +146,7 @@ papers:
     title: Robust device-free proximity detection using wifi
     year: '2021'
   k1G0E9AAAAAJ:u5HHmVD_uO8C:
-    citations: 35
+    citations: 36
     title: A WiFi-based passive fall detection system
     year: '2020'
   k1G0E9AAAAAJ:ufrVoPGSRksC:
