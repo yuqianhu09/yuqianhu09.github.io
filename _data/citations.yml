@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-08'
+  last_updated: '2026-04-10'
 papers:
   k1G0E9AAAAAJ:0EnyYjriUFMC:
     citations: 16
@@ -34,7 +34,7 @@ papers:
     title: 'GaitWay: Monitoring and recognizing gait speed through the walls'
     year: '2020'
   k1G0E9AAAAAJ:IjCSPb-OGe4C:
-    citations: 116
+    citations: 117
     title: 'DeFall: Environment-independent passive fall detection using WiFi'
     year: '2021'
   k1G0E9AAAAAJ:KlAtU1dfN6UC:
@@ -42,7 +42,7 @@ papers:
     title: Method, apparatus, and system for wireless sensing based on deep learning
     year: '2025'
   k1G0E9AAAAAJ:LkGwnXOMwfcC:
-    citations: 133
+    citations: 135
     title: Method, apparatus, and system for identifying and qualifying devices for wireless sensing
     year: '2022'
   k1G0E9AAAAAJ:M3ejUd6NZC8C:
