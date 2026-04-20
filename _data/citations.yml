@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-04-15'
+  last_updated: '2026-04-20'
 papers:
   k1G0E9AAAAAJ:0EnyYjriUFMC:
-    citations: 16
+    citations: 17
     title: 'Wi-MoID: Human and nonhuman motion discrimination using WiFi with edge computing'
     year: '2023'
   k1G0E9AAAAAJ:3fE2CSJIrl8C:
@@ -21,8 +21,12 @@ papers:
     citations: 8
     title: 'mmID: High-resolution mmWave imaging for human identification'
     year: '2023'
+  k1G0E9AAAAAJ:7PzlFSSx8tAC:
+    citations: 0
+    title: Wireless based occupancy detection and activity monitoring
+    year: '2026'
   k1G0E9AAAAAJ:8k81kl-MbHgC:
-    citations: 2
+    citations: 3
     title: Method, apparatus, and system for wireless proximity detection
     year: '2025'
   k1G0E9AAAAAJ:9ZlFYXVOiuMC:
@@ -30,7 +34,7 @@ papers:
     title: 'Poster: Efficient Passive Tracking using Commodity WiFi with Single-Shot Training'
     year: '2025'
   k1G0E9AAAAAJ:9yKSN-GCB0IC:
-    citations: 122
+    citations: 123
     title: 'GaitWay: Monitoring and recognizing gait speed through the walls'
     year: '2020'
   k1G0E9AAAAAJ:IjCSPb-OGe4C:
@@ -50,7 +54,7 @@ papers:
     title: 'FallAware: An explainable learning approach to robust fall detection with WiFi'
     year: '2024'
   k1G0E9AAAAAJ:MXK_kJrjxJIC:
-    citations: 2
+    citations: 3
     title: Method, apparatus, and system for wireless human and non-human motion detection
     year: '2024'
   k1G0E9AAAAAJ:QIV2ME_5wuYC:
@@ -78,7 +82,7 @@ papers:
     title: Method, apparatus, and system for wireless gait recognition
     year: '2020'
   k1G0E9AAAAAJ:WF5omc3nYNoC:
-    citations: 28
+    citations: 29
     title: 'Tag: Boosting text-vqa via text-aware visual question-answer generation'
     year: '2022'
   k1G0E9AAAAAJ:Wp0gIr-vW9MC:
@@ -126,7 +130,7 @@ papers:
     title: Universal Virtual Keyboard using 60 GHz mmWave Radar
     year: '2021'
   k1G0E9AAAAAJ:hqOjcs7Dif8C:
-    citations: 0
+    citations: 1
     title: Method, apparatus, and system for correlation-based wireless monitoring and localization
     year: '2024'
   k1G0E9AAAAAJ:kNdYIx-mwKoC:
