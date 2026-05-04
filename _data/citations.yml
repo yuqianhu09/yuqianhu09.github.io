@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-04-20'
+  last_updated: '2026-05-04'
 papers:
   k1G0E9AAAAAJ:0EnyYjriUFMC:
-    citations: 17
+    citations: 16
     title: 'Wi-MoID: Human and nonhuman motion discrimination using WiFi with edge computing'
     year: '2023'
   k1G0E9AAAAAJ:3fE2CSJIrl8C:
-    citations: 12
+    citations: 13
     title: WiFi-based robust human and non-human motion recognition with deep learning
     year: '2024'
   k1G0E9AAAAAJ:4DMP91E08xMC:
-    citations: 4
+    citations: 5
     title: 'Experience paper: Scaling wifi sensing to millions of commodity devices for ubiquitous home monitoring'
     year: '2025'
   k1G0E9AAAAAJ:4TOpqqG69KYC:
@@ -34,7 +34,7 @@ papers:
     title: 'Poster: Efficient Passive Tracking using Commodity WiFi with Single-Shot Training'
     year: '2025'
   k1G0E9AAAAAJ:9yKSN-GCB0IC:
-    citations: 123
+    citations: 125
     title: 'GaitWay: Monitoring and recognizing gait speed through the walls'
     year: '2020'
   k1G0E9AAAAAJ:IjCSPb-OGe4C:
@@ -42,7 +42,7 @@ papers:
     title: 'DeFall: Environment-independent passive fall detection using WiFi'
     year: '2021'
   k1G0E9AAAAAJ:KlAtU1dfN6UC:
-    citations: 2
+    citations: 3
     title: Method, apparatus, and system for wireless sensing based on deep learning
     year: '2025'
   k1G0E9AAAAAJ:LkGwnXOMwfcC:
@@ -54,7 +54,7 @@ papers:
     title: 'FallAware: An explainable learning approach to robust fall detection with WiFi'
     year: '2024'
   k1G0E9AAAAAJ:MXK_kJrjxJIC:
-    citations: 3
+    citations: 4
     title: Method, apparatus, and system for wireless human and non-human motion detection
     year: '2024'
   k1G0E9AAAAAJ:QIV2ME_5wuYC:
@@ -62,11 +62,11 @@ papers:
     title: Wireless sensing using a foundation model
     year: '2025'
   k1G0E9AAAAAJ:Se3iqnhoufwC:
-    citations: 14
+    citations: 15
     title: Robust passive proximity detection using wi-fi
     year: '2022'
   k1G0E9AAAAAJ:Tyk-4Ss8FVUC:
-    citations: 28
+    citations: 29
     title: Method, apparatus, and system for wireless proximity sensing
     year: '2021'
   k1G0E9AAAAAJ:ULOm3_A8WrAC:
@@ -74,7 +74,7 @@ papers:
     title: "Device-free room-level localization with WiFi utilizing spatial-frequency\u2013time diversity"
     year: '2024'
   k1G0E9AAAAAJ:UebtZRa9Y70C:
-    citations: 21
+    citations: 22
     title: 'GWrite: Enabling through-the-wall gesture writing recognition using WiFi'
     year: '2022'
   k1G0E9AAAAAJ:W7OEmFMy1HYC:
@@ -90,7 +90,7 @@ papers:
     title: Wireless sensing using measurement enhancement
     year: '2025'
   k1G0E9AAAAAJ:Y0pCki6q_DkC:
-    citations: 14
+    citations: 16
     title: Method, apparatus, and system for fall-down detection based on a wireless signal
     year: '2021'
   k1G0E9AAAAAJ:YOwf2qJgpHMC:
@@ -110,11 +110,11 @@ papers:
     title: Method, apparatus, and system for wireless sensing based on linkwise motion statistics
     year: '2025'
   k1G0E9AAAAAJ:_kc_bZDykSQC:
-    citations: 5
+    citations: 6
     title: What you need is a good csi
     year: '2024'
   k1G0E9AAAAAJ:aqlVkmm33-oC:
-    citations: 7
+    citations: 8
     title: 'CSI-Bench: A Large-Scale In-the-Wild Dataset for Multi-task WiFi Sensing'
     year: '2025'
   k1G0E9AAAAAJ:d1gkVwhDpl0C:
@@ -138,7 +138,7 @@ papers:
     title: Robust proximity detection using on-device gait monitoring
     year: '2023'
   k1G0E9AAAAAJ:mVmsd5A6BfQC:
-    citations: 0
+    citations: 1
     title: High resolution human imaging using neural network
     year: '2025'
   k1G0E9AAAAAJ:qxL8FJ1GzNcC:
@@ -150,7 +150,7 @@ papers:
     title: Robust device-free proximity detection using wifi
     year: '2021'
   k1G0E9AAAAAJ:u5HHmVD_uO8C:
-    citations: 36
+    citations: 37
     title: A WiFi-based passive fall detection system
     year: '2020'
   k1G0E9AAAAAJ:ufrVoPGSRksC:
