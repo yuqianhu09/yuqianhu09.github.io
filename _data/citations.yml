@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-29'
+  last_updated: '2026-06-17'
 papers:
   k1G0E9AAAAAJ:0EnyYjriUFMC:
     citations: 18
@@ -10,7 +10,7 @@ papers:
     title: WiFi-based robust human and non-human motion recognition with deep learning
     year: '2024'
   k1G0E9AAAAAJ:4DMP91E08xMC:
-    citations: 5
+    citations: 7
     title: 'Experience paper: Scaling wifi sensing to millions of commodity devices for ubiquitous home monitoring'
     year: '2025'
   k1G0E9AAAAAJ:4TOpqqG69KYC:
@@ -34,11 +34,11 @@ papers:
     title: 'Poster: Efficient Passive Tracking using Commodity WiFi with Single-Shot Training'
     year: '2025'
   k1G0E9AAAAAJ:9yKSN-GCB0IC:
-    citations: 126
+    citations: 127
     title: 'GaitWay: Monitoring and recognizing gait speed through the walls'
     year: '2020'
   k1G0E9AAAAAJ:IjCSPb-OGe4C:
-    citations: 117
+    citations: 118
     title: 'DeFall: Environment-independent passive fall detection using WiFi'
     year: '2021'
   k1G0E9AAAAAJ:KlAtU1dfN6UC:
@@ -46,7 +46,7 @@ papers:
     title: Method, apparatus, and system for wireless sensing based on deep learning
     year: '2025'
   k1G0E9AAAAAJ:LkGwnXOMwfcC:
-    citations: 151
+    citations: 154
     title: Method, apparatus, and system for identifying and qualifying devices for wireless sensing
     year: '2022'
   k1G0E9AAAAAJ:M3ejUd6NZC8C:
@@ -94,7 +94,7 @@ papers:
     title: Method, apparatus, and system for fall-down detection based on a wireless signal
     year: '2021'
   k1G0E9AAAAAJ:YOwf2qJgpHMC:
-    citations: 7
+    citations: 8
     title: 'HRNet: High-resolution neural network for human imaging using mmWave radar'
     year: '2024'
   k1G0E9AAAAAJ:YsMSGLbcyi4C:
@@ -114,7 +114,7 @@ papers:
     title: What you need is a good csi
     year: '2024'
   k1G0E9AAAAAJ:aqlVkmm33-oC:
-    citations: 12
+    citations: 14
     title: 'CSI-Bench: A large-scale in-the-wild dataset for multi-task WiFi sensing'
     year: '2026'
   k1G0E9AAAAAJ:d1gkVwhDpl0C:
@@ -122,7 +122,7 @@ papers:
     title: 'mmKey: Universal Virtual Keyboard Using A Single Millimeter-Wave Radio'
     year: '2021'
   k1G0E9AAAAAJ:dhFuZR0502QC:
-    citations: 2
+    citations: 3
     title: 'AM-FM: A Foundation Model for Ambient Intelligence Through WiFi'
     year: '2026'
   k1G0E9AAAAAJ:eQOLeE2rZwMC:
@@ -150,7 +150,7 @@ papers:
     title: Robust device-free proximity detection using wifi
     year: '2021'
   k1G0E9AAAAAJ:u5HHmVD_uO8C:
-    citations: 37
+    citations: 38
     title: A WiFi-based passive fall detection system
     year: '2020'
   k1G0E9AAAAAJ:ufrVoPGSRksC:
