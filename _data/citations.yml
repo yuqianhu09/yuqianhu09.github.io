@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-24'
+  last_updated: '2026-08-05'
 papers:
   k1G0E9AAAAAJ:0EnyYjriUFMC:
-    citations: 19
+    citations: 18
     title: 'Wi-MoID: Human and nonhuman motion discrimination using WiFi with edge computing'
     year: '2023'
   k1G0E9AAAAAJ:3fE2CSJIrl8C:
@@ -10,7 +10,7 @@ papers:
     title: WiFi-based robust human and non-human motion recognition with deep learning
     year: '2024'
   k1G0E9AAAAAJ:4DMP91E08xMC:
-    citations: 7
+    citations: 6
     title: 'Experience paper: Scaling wifi sensing to millions of commodity devices for ubiquitous home monitoring'
     year: '2025'
   k1G0E9AAAAAJ:4TOpqqG69KYC:
@@ -28,7 +28,7 @@ papers:
   k1G0E9AAAAAJ:8k81kl-MbHgC:
     citations: 3
     title: Method, apparatus, and system for wireless proximity detection
-    year: '2025'
+    year: '2024'
   k1G0E9AAAAAJ:9ZlFYXVOiuMC:
     citations: 0
     title: 'Poster: Efficient Passive Tracking using Commodity WiFi with Single-Shot Training'
@@ -38,11 +38,11 @@ papers:
     title: 'GaitWay: Monitoring and recognizing gait speed through the walls'
     year: '2020'
   k1G0E9AAAAAJ:IjCSPb-OGe4C:
-    citations: 123
+    citations: 124
     title: 'DeFall: Environment-independent passive fall detection using WiFi'
     year: '2021'
   k1G0E9AAAAAJ:KlAtU1dfN6UC:
-    citations: 3
+    citations: 0
     title: Method, apparatus, and system for wireless sensing based on deep learning
     year: '2025'
   k1G0E9AAAAAJ:LkGwnXOMwfcC:
@@ -78,7 +78,7 @@ papers:
     title: 'GWrite: Enabling through-the-wall gesture writing recognition using WiFi'
     year: '2022'
   k1G0E9AAAAAJ:W7OEmFMy1HYC:
-    citations: 22
+    citations: 23
     title: Method, apparatus, and system for wireless gait recognition
     year: '2020'
   k1G0E9AAAAAJ:WF5omc3nYNoC:
@@ -94,8 +94,8 @@ papers:
     title: Method, apparatus, and system for fall-down detection based on a wireless signal
     year: '2021'
   k1G0E9AAAAAJ:YOwf2qJgpHMC:
-    citations: 10
-    title: 'HRNet: High-resolution neural network for human imaging using mmWave radar'
+    citations: 11
+    title: 'HRNet: high-resolution neural network for human imaging using mmWave radar'
     year: '2024'
   k1G0E9AAAAAJ:YsMSGLbcyi4C:
     citations: 0
@@ -106,15 +106,15 @@ papers:
     title: Practical WiFi Sensing for Human and Non-human Motion Identification on the Edge
     year: '2024'
   k1G0E9AAAAAJ:_FxGoFyzp5QC:
-    citations: 0
+    citations: 4
     title: Method, apparatus, and system for wireless sensing based on linkwise motion statistics
     year: '2025'
   k1G0E9AAAAAJ:_kc_bZDykSQC:
     citations: 7
-    title: What you need is a good csi
+    title: What you need is a good CSI
     year: '2024'
   k1G0E9AAAAAJ:aqlVkmm33-oC:
-    citations: 18
+    citations: 19
     title: 'CSI-Bench: A large-scale in-the-wild dataset for multi-task WiFi sensing'
     year: '2026'
   k1G0E9AAAAAJ:d1gkVwhDpl0C:
@@ -130,7 +130,7 @@ papers:
     title: Universal Virtual Keyboard using 60 GHz mmWave Radar
     year: '2021'
   k1G0E9AAAAAJ:hqOjcs7Dif8C:
-    citations: 1
+    citations: 11
     title: Method, apparatus, and system for correlation-based wireless monitoring and localization
     year: '2024'
   k1G0E9AAAAAJ:kNdYIx-mwKoC:
@@ -158,6 +158,6 @@ papers:
     title: Wifi-based robust indoor localization for daily activity monitoring
     year: '2022'
   k1G0E9AAAAAJ:zYLM7Y9cAGgC:
-    citations: 11
+    citations: 0
     title: Method, apparatus, and system for wirelessly tracking keystrokes
     year: '2021'
