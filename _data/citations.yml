@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-12'
+  last_updated: '2026-08-24'
 papers:
   k1G0E9AAAAAJ:0EnyYjriUFMC:
-    citations: 18
+    citations: 19
     title: 'Wi-MoID: Human and nonhuman motion discrimination using WiFi with edge computing'
     year: '2023'
   k1G0E9AAAAAJ:3fE2CSJIrl8C:
@@ -34,7 +34,7 @@ papers:
     title: 'Poster: Efficient Passive Tracking using Commodity WiFi with Single-Shot Training'
     year: '2025'
   k1G0E9AAAAAJ:9yKSN-GCB0IC:
-    citations: 129
+    citations: 130
     title: 'GaitWay: Monitoring and recognizing gait speed through the walls'
     year: '2020'
   k1G0E9AAAAAJ:IjCSPb-OGe4C:
@@ -114,7 +114,7 @@ papers:
     title: What you need is a good CSI
     year: '2024'
   k1G0E9AAAAAJ:aqlVkmm33-oC:
-    citations: 19
+    citations: 22
     title: 'CSI-Bench: A large-scale in-the-wild dataset for multi-task WiFi sensing'
     year: '2026'
   k1G0E9AAAAAJ:d1gkVwhDpl0C:
@@ -122,7 +122,7 @@ papers:
     title: 'mmKey: Universal Virtual Keyboard Using A Single Millimeter-Wave Radio'
     year: '2021'
   k1G0E9AAAAAJ:dhFuZR0502QC:
-    citations: 5
+    citations: 6
     title: 'AM-FM: A foundation model for ambient intelligence through WiFi'
     year: '2026'
   k1G0E9AAAAAJ:eQOLeE2rZwMC:
